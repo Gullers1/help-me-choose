@@ -25,3 +25,15 @@ width: 400px;
   flex-direction: column;
 }
 
+input{
+  margin-top: 10px;
+}
+
+.addOption{
+  margin-top: 10px;
+}
+
+img.resize {
+  width:200px;
+  height:40px;
+}
